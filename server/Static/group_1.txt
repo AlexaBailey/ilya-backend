@@ -1,0 +1,13 @@
+id: 1
+name: Group 1
+students:
+id: 1
+firstName: a
+lastName: a
+groupId: 1
+groupName: Group 1
+id: 2
+firstName: b
+lastName: b
+groupId: 1
+groupName: Group 1

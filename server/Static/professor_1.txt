@@ -1,0 +1,64 @@
+id: 1
+firstName: a
+lastName: a
+dateOfBirth: 15.10.1985
+subjects:
+id: 1
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Mathematics
+id: 2
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Physics
+id: 3
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Chemistry
+schedule:
+id: 2
+date: 10.11.2024
+groupSubjectId: 2
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Physics
+groupId: 1
+groupName: Group 1
+hours: 120
+id: 1
+date: 11.11.2024
+groupSubjectId: 1
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Mathematics
+groupId: 1
+groupName: Group 1
+hours: 120
+evaluation:
+id: 1
+groupId: 1
+groupName: Group 1
+date: 11.11.2024
+formOfControl: attestation
+groupSubjectId: 1
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Mathematics
+hours: 120
+id: 2
+groupId: 1
+groupName: Group 1
+date: 10.11.2024
+formOfControl: attestation
+groupSubjectId: 2
+professorId: 1
+professorFirstName: a
+professorLastName: a
+subjectName: Physics
+hours: 120

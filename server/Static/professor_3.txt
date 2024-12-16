@@ -1,0 +1,7 @@
+id: 3
+firstName: dsgdg
+lastName: sgfh
+dateOfBirth: 2024-12-04
+subjects:
+schedule:
+evaluation:

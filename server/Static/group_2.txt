@@ -1,0 +1,23 @@
+id: 2
+name: Group 2
+students:
+id: 3
+firstName: c
+lastName: c
+groupId: 2
+groupName: Group 2
+id: 4
+firstName: d
+lastName: d
+groupId: 2
+groupName: Group 2
+id: 5
+firstName: f
+lastName: z
+groupId: 2
+groupName: Group 2
+id: 6
+firstName: ilia
+lastName: lipovik
+groupId: 2
+groupName: Group 2

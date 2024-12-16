@@ -1,0 +1,8 @@
+id: 6
+name: Group 6
+students:
+id: 7
+firstName: alexa
+lastName: lolik
+groupId: 6
+groupName: Group 6

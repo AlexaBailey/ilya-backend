@@ -1,0 +1,8 @@
+id: 4
+name: Group 4
+students:
+id: 6
+firstName: ewqeqw
+lastName: dsadsaad
+groupId: 4
+groupName: Group 4

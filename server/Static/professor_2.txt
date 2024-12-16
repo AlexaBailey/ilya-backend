@@ -1,0 +1,7 @@
+id: 2
+firstName: Vasiliy
+lastName: Melenchuk
+dateOfBirth: 1984-11-07
+subjects:
+schedule:
+evaluation:
